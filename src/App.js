@@ -1,6 +1,6 @@
 import Navigation from "./components/Navigation";
 import Headline from "./components/Headline";
-import Calculator1 from './components/Calculator1'
+import Calculator from './components/Calculator'
 
 
 
@@ -11,7 +11,7 @@ function App() {
     <>
       <Navigation />
       <Headline />
-      <Calculator1 />
+      <Calculator />
     </>
   );
 }
